@@ -298,12 +298,6 @@ if($auth) {
                                     if($FTL_update){ ?> <a class="alert-link lookatme btn-link" href="https://github.com/pi-hole/FTL/releases" target="_blank" style="background:none">(Update available!)</a><?php } ?><br><br>
                                 </div>
                                 */ ?>
-                                <!-- PayPal -->
-                                <div class="text-center">
-                                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3J2L3Z4DHW9UY" target="_blank" style="background:none">
-                                        <img src="img/donate.gif" alt="Donate">
-                                    </a>
-                                </div>
                             </li>
                         </ul>
                     </li>
